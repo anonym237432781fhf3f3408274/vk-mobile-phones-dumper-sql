@@ -43,6 +43,7 @@ def main():
     except:
         logs.echoWarning('Invalid group_id')
         logs.echoInfo('Group id must be an integer')
+        exit(0)
 
     if not settings.user['access_token']:
         logs.echoWarning('Missing access_token. Put it in settings.py file')
