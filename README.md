@@ -50,8 +50,10 @@ python dumper.py 44 -v
 ```
 ### После начала запуска программы, она создаст таблицу с пользователями и с их информацией.
 ## Пример записи в таблице:
-|text|text|text|
-|text|Text|Text|
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
