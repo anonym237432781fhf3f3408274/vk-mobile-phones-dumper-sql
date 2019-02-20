@@ -4,6 +4,8 @@
 #### Скорость работы программы: около 200 чел / сек.
 <img src="https://github.com/jieggii/vk-mobile-phones-dumper-sql/blob/master/imgs/ConEmu64_GyGEoAA22s.png"></img>
 <img src="https://github.com/jieggii/vk-mobile-phones-dumper-sql/blob/master/imgs/firefox_iaDDkNPZ0j.png"></img>
+###### *Информация была взята из открытого источника.
+
 # Как это работает?
 * Программа сканирует каждого подписчика заданной вами группы на наличие указанного в открытом доступе мобильного телефона.
 * Программа проверяет номер телефона через фильтр, который можно настроить в ```settings.py```.
