@@ -12,7 +12,8 @@
 1. Скачайте интерпретатор Python 3 с <a href="https://python.org">официального сайта</a>.
 2. Начните установку
 3. При установке нажмите на кнопку "Customize installation" и убедитесь, что стоит галочка на пункте "pip".
-4. Откройте командную строку cmd и пропишите ```pip install  -r requirements.txt```.
+4. Перейдите в директорию, куда вы установили VK MOBILE PHONES DUMPER.
+5. Откройте командную строку cmd и пропишите ```pip install  -r requirements.txt```.
 ## Установка Open Server
 1. Скачайте Open Server Basic с <a href="https://ospanel.io/">официального сайта</a> (если скорость скачивания слишком медленная, попробуйте скачать  <a href="https://soft.mydiv.net/win/files-OpenServer.html">отсюда</a>).
 2. Запустите установачный файл и следуйте инструкциям.
